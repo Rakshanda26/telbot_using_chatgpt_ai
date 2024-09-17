@@ -3,7 +3,7 @@ from dotenv import load_dotenv
 from aiogram import Bot, Dispatcher, executor, types
 import openai
 import sys
-
+import os 
 
 
 class Reference:
